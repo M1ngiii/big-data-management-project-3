@@ -1,0 +1,21 @@
+# Data files
+data/
+
+# Environment & secrets
+.env
+
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Jupyter
+**/.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
